@@ -1,0 +1,43 @@
+
+---
+
+## 2. Add a LICENSE (Highly Recommended)
+
+On GitHub:
+
+- Go to your repository.
+- Click **Add file → Create new file**.
+- Name it `LICENSE`.
+- Click **Choose a license template**.
+- Select **MIT License**.
+- Commit the file.
+
+MIT is a good default for most open-source projects.
+
+---
+
+## 3. Make sure your repository has
+
+- ✅ Public visibility
+- ✅ README.md
+- ✅ LICENSE
+- ✅ Source code (not just the built website)
+- ✅ A few meaningful commits
+- ✅ A project description (optional but helpful)
+
+---
+
+## 4. Wait a few minutes
+
+After adding the README and LICENSE, GitHub may take a little time to update metadata. Then refresh the Claude form and try again.
+
+### One more thing
+
+I looked at your repository name, but I **can't confirm from here** whether the repository actually contains source code or is mainly the generated GitHub Pages site.
+
+If you want to maximize your chances of getting Claude for Open Source, I can review your repository and tell you:
+- what's missing,
+- what should be improved,
+- and whether it looks like a strong open-source project.
+
+That will give you a much better chance of approval.
